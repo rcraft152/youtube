@@ -1,0 +1,23 @@
+{
+	"name": "MULTIPLEX",
+	"date": "2017.02.01",
+	"version": "1.0.0",
+	"description": "MULTIPLEX — это бесплатный кинотеатр.",
+	"author": {
+		"name": "Elegant Division"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/jeniastar97/multiplex.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "apps",
+		"name": "MULTIPLEX",
+		"legacy": true,
+		"description": "MULTIPLEX — это бесплатный кинотеатр.",
+		"backgroundColor": "#00C8DA",
+		"icons": "icons"
+	}
+}
