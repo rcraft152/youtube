@@ -1,4 +1,4 @@
-![Multiplex](https://raw.githubusercontent.com/Elegant-Division/Fork-Player-for-Stalker-Middleware/master/img/720/icons/2010.png)
+![Multiplex](http://romsat.ua/upload/medialibrary/76f/76f858053f1e5e5759e8c370d18ad527.jpg)
 
 # Multiplex для Stalker Middleware
 
